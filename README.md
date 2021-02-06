@@ -2,7 +2,7 @@
 
 This is my term project for the course Data Structure. 
 
-![image-20210206230527137](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20210206230527137.png)
+![Screenshot](D:\coffeebar\virtual-coffee-bar-with-recommender-system\Screenshot.png)
 
 In general it is an online ordering system with basic functions of CUD(create, update, delete; not support retrieval yet), and most importantly **recommending**("guess you may like"). The recommender system is based on **FP-Growth algorithm** (that's why I choose it for the course Data Structure). For FP-Growth part,  I mainly refer to [this project(in python)](https://github.com/dominic-z/FP-tree), and [another one(in C++)](https://github.com/LandyGuo/FpTree/blob/master/FpTree.cpp) .
 
