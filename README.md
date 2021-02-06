@@ -12,7 +12,8 @@ All work is done in Python, and GUI is written with Tkinter.
 
 The relation of three py files is:
           fptree-->user-->GUI
-'-->' stands for the relying relationship.
+
+Note: '-->' stands for the relying relationship.
 
 So if you want to see how the GUI works, you can just use `GUI.exe` **with three txt files in the same path**, which serve as the 'database' of this project. 
 Or you can also use GUI.py directly, but do remember to place it with 3 files in the same path: ①three txt files, ②fptree.py ③user.py
