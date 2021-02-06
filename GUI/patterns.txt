@@ -1,0 +1,41 @@
+black tea,cake:6
+coffee,cake:5
+black tea,coffee:6
+coffee,black tea,cake:5
+juice,black tea:4
+juice,cake:5
+juice,coffee:2
+juice,black tea,cake:4
+juice,black tea,coffee:2
+coffee,juice,cake:2
+coffee,black tea,cake,juice:2
+milk,coffee:2
+milk,cake:3
+black tea,milk:3
+juice,milk:3
+milk,coffee,cake:2
+black tea,milk,coffee:2
+juice,milk,coffee:2
+black tea,milk,cake:3
+juice,milk,cake:3
+juice,black tea,milk:3
+black tea,milk,coffee,cake:2
+juice,milk,coffee,cake:2
+juice,black tea,milk,coffee:2
+juice,black tea,milk,cake:3
+juice,black tea,milk,coffee,cake:2
+black tea,pizza:4
+cake,pizza:4
+juice,pizza:2
+coffee,pizza:3
+black tea,cake,pizza:4
+juice,black tea,pizza:2
+black tea,coffee,pizza:3
+juice,cake,pizza:2
+coffee,cake,pizza:3
+juice,coffee,pizza:2
+juice,black tea,cake,pizza:2
+coffee,black tea,cake,pizza:3
+juice,black tea,coffee,pizza:2
+juice,coffee,cake,pizza:2
+juice,black tea,pizza,coffee,cake:2

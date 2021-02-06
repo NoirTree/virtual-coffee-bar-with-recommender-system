@@ -1,0 +1,28 @@
+3235059:cake,black tea,pizza
+6254648:cake,black tea,juice
+6254648:black tea,cake,pizza
+3152330:cake,coffee
+2158121:coffee,cake
+5871929:juice,black tea
+7177449:coffee
+8735085:cake
+6179467:coffee,black tea
+7257551:juice,cake
+7015389:coffee
+9168505:cake
+9168505:cake,coffee,milk
+6064965:cake,juice
+5272643:milk
+6742196:black tea,coffee
+6662601:coffee,black tea
+1610211:milk,cake,black tea
+2549461:juice,milk
+6041720:coffee,black tea
+9436558:juice,black tea,milk
+9578174:black tea,coffee,cake,juice,pizza
+2586108:pizza,coffee
+5210214:cake
+5062927:cake,black tea
+2292689:juice,cake
+7690850:cake,pizza,milk,coffee,black tea,juice
+2669050:cake

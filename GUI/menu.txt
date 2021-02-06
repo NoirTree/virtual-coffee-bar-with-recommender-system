@@ -1,0 +1,8 @@
+milk:10
+black tea:20
+cake:40
+coffee:30
+juice:15
+pizza:50
+watermelon:6
+smoothie:16
